@@ -1,7 +1,7 @@
 {
   "settings":{
-    "ImagesBaseUrl":"https://raw.githubusercontent.com/mustaphadev/rezrt/ouoijldg/imgs/",
-    "PreviewsBaseUrl":"https://raw.githubusercontent.com/mustaphadev/rezrt/ouoijldg/imgs/previews",
+    "ImagesBaseUrl":"https://raw.githubusercontent.com/mustaphadev/ouoijldg/imgs/",
+    "PreviewsBaseUrl":"https://raw.githubusercontent.com/mustaphadev/ouoijldg/imgs/previews",
     "AdmobAppId":"ca-app-pub-6841670917459367~9499367298",
     "AdmobBannerAdId":"ca-app-pub-6841670917459367/5560122281"
   },
